@@ -9,7 +9,9 @@ public class RandomStuff
         
         System.out.println("The number is" + age+ "!");
         
+        System.out.printLn("They put chemicals in the water that made the frogs gay");
            
     }
     
+}
 }
